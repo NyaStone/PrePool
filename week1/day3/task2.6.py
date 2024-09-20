@@ -1,0 +1,1 @@
+print('gaylord\n' * 10)
